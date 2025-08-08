@@ -1,0 +1,26 @@
+[
+    {
+        "date": "18.07.2025",
+        "duration": "00:37:30",
+        "videoName": "פאנל אולפן שישי: קשיים בדרך לעסקת חטופים",
+        "description": null,
+        "videoId": "533468ed41f18910VgnVCM200000650a10acRCRD",
+        "videoLink": "/news-channel12?subChannelId=307509c1c7827910VgnVCM200000650a10acRCRD&vcmid=533468ed41f18910VgnVCM200000650a10acRCRD",
+        "channelId": "307509c1c7827910VgnVCM200000650a10acRCRD",
+        "channelName": "לא ידוע",
+        "secondsDuration": 2250,
+        "m3u8_url": "https://mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/07/ulpash_vtr2_n20250718_v1/ulpash_vtr2_n20250718_v1_,850,.mp4.csmil/master.m3u8"
+    },
+    {
+        "date": "18.07.2025",
+        "duration": "01:38:58",
+        "videoName": "אולפן שישי עם דני קושמרו - 18.07.2025",
+        "description": null,
+        "videoId": "9f7807b3afe18910VgnVCM200000650a10acRCRD",
+        "videoLink": "/news-channel12?subChannelId=5fee09c1c7827910VgnVCM200000650a10acRCRD&vcmid=9f7807b3afe18910VgnVCM200000650a10acRCRD",
+        "channelId": "5fee09c1c7827910VgnVCM200000650a10acRCRD",
+        "channelName": "לא ידוע",
+        "secondsDuration": 5938,
+        "m3u8_url": "https://mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/07/ulpash_vtr2_n20250718_v1/ulpash_vtr2_n20250718_v1_,850,.mp4.csmil/master.m3u8"
+    }
+]
